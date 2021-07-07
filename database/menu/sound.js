@@ -2,9 +2,7 @@ const sound = (prefix, ownerBot, botName) => {
         return `
 「 *ArmandBot* 」
 
-◪ *INFO*
-  ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerBot}
+
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info

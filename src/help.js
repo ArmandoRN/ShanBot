@@ -1,42 +1,28 @@
 const help = (prefix) => {
 	return `
-
 ⌜ *ArmandBot 🤖 * ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   
-
-
-
-◉ *NUEVOS MENUS*
-
-○ ${prefix}desmenu
-Descargar musica y videos de YT
-
-
-
-◉ *PARA USAR EL BOT*
-Registrate con el comando ${prefix}daftar y tu nombre
-
 
 ◉ *CREAR STICKERS*
   ║
   ╠ ○ ${prefix}sticker
-  ╠ ○ ${prefix}attp
-  ╠ Mas un texto corto
+  ╠ Hacer sticker desde una imagen
+  ╠ ○ ${prefix}attp (mas texto)
+  ╠ Hacer sticker de un texto
   ╠ ○ ${prefix}stickergif
-  ╠ 6 segundos de video
+  ╠ Hacer sticker de video (6 segundos)
   ╠ ○ ${prefix}toimg
   ╠ De sticker a JPG
+  ╠
+  ╠ ○ ${prefix}ytmp4 (mas link)
+  ╠ Descarga videos de Youtube
   ╠ ○ ${prefix}tomp3
   ╚ De video a MP3
 
-◉ *AUDIO*
-  ║
-  ╠ ○ ${prefix}idioma
+◉ *VOZ*
   ╚ ○ ${prefix}tts es (mas texto)
-
 `
 }
 

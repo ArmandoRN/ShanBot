@@ -3,9 +3,7 @@ const islam = (prefix, ownerBot, botName) => {
 
 「 *ArmandBot* 」
 
-◪ *INFO*
-  ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerBot}
+
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
